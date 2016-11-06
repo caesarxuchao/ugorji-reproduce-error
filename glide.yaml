@@ -1,0 +1,5 @@
+package: github.com/caesarxuchao/ugorji-reproduce-error
+import:
+- package: github.com/ugorji/go
+  subpackages:
+  - codec
